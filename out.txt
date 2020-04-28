@@ -1,0 +1,1000 @@
+ 1070  ls
+ 1071  cd assignments/
+ 1072  ls
+ 1073  cd assignment1/
+ 1074  ls
+ 1075  g++ sum_total_recursive.cpp -o c
+ 1076  ./a
+ 1077  ./c
+ 1078  make
+ 1079  clear
+ 1080  make
+ 1081  ./a
+ 1082  clear
+ 1083  ls
+ 1084  rm a
+ 1085  rm a.out 
+ 1086  rm b
+ 1087  rm c
+ 1088  code sum_total_memoization.cpp 
+ 1089  code sum_total_memoization_task.cpp 
+ 1090  code sum_total_recursive.cpp 
+ 1091  g++ sum_total_memoization.cpp 
+ 1092  ./a
+ 1093  ./a.out 
+ 1094  rm a.out 
+ 1095  ls
+ 1096  code sum_total_recursive_task.cpp 
+ 1097  g++ sum_total_memoization_task.cpp -o a
+ 1098  ./a
+ 1099  ls
+ 1100  g++ sum_total_memoization_task.cpp 
+ 1101  ./a
+ 1102  g++ sum_total_memoization_task.cpp -o a
+ 1103  ./a
+ 1104  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1105  ./a
+ 1106  cd Desktop/
+ 1107  ls
+ 1108  code Bit_Difference.c[[
+ 1109  rm Bit_Difference.c\[\[ 
+ 1110  code Bit_Difference.cpp
+ 1111  g++ Bit_Difference.cpp -o a
+ 1112  ./a
+ 1113  g++ Bit_Difference.cpp -o a
+ 1114  ./a
+ 1115  g++ Bit_Difference.cpp -o a
+ 1116  ./a
+ 1117  g++ Bit_Difference.cpp -o a
+ 1118  ./a
+ 1119  g++ Bit_Difference.cpp -o a
+ 1120  ./a
+ 1121  g++ Bit_Difference.cpp -o a
+ 1122  ./a
+ 1123  g++ Bit_Difference.cpp -o a
+ 1124  ./a
+ 1125  g++ Bit_Difference.cpp -o a
+ 1126  ./a
+ 1127  g++ Bit_Difference.cpp -o a
+ 1128  ./a
+ 1129  g++ Bit_Difference.cpp -o a
+ 1130  ./a
+ 1131  clear
+ 1132  cd inter_codes/
+ 1133  ls
+ 1134  rm a
+ 1135  ls
+ 1136  code find_mother_vertex.cpp
+ 1137  exit
+ 1138  ping www.google.com.
+ 1139  exit
+ 1140  cd Desktop/pdp_slides_codes/
+ 1141  ls
+ 1142  cd codes/
+ 1143  ls
+ 1144  cd cuda_codes/
+ 1145  ls
+ 1146  code matrix_multiplication.cu 
+ 1147  exit
+ 1148  cd Desktop/pdp_slides_codes/
+ 1149  ls
+ 1150  cd codes/
+ 1151  sl
+ 1152  ls
+ 1153  cd cuda_codes/
+ 1154  ls
+ 1155  rm a
+ 1156  ls
+ 1157  clear
+ 1158  ls
+ 1159  cd ..
+ 1160  cd imp_codes/
+ 1161  l
+ 1162  mkdir cuda_codes
+ 1163  ls
+ 1164  cd c
+ 1165  cd cuda_codes/
+ 1166  ls
+ 1167  code transpose.cu
+ 1168  export PATH=/usr/local/cuda-10.2/bin:/usr/local/cuda-10.2/NsightCompute-2019.1${PATH:+:${PATH}}
+ 1169  export LD_LIBRARY_PATH=/usr/local/cuda-10.2/lib64\${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+ 1170  which nvcc
+ 1171  clear
+ 1172  cd ..
+ 1173  cd cuda_codes/
+ 1174  ls
+ 1175  nvcc transpose.cu -o a
+ 1176  ./a
+ 1177  nvcc transpose.cu -o a
+ 1178  ./a
+ 1179  mvcc transpose.cu -ptx -o a
+ 1180  nvcc transpose.cu -ptx -o a
+ 1181  nvcc transpose.cu -o a
+ 1182  clear
+ 1183  nvcc transpose.cu -o a
+ 1184  ./a
+ 1185  nvcc transpose.cu -o a
+ 1186  ./a
+ 1187  nvcc transpose.cu -o a
+ 1188  ./a
+ 1189  clear
+ 1190  ./a
+ 1191  nvcc transpose.cu -o a
+ 1192  clear
+ 1193  ./a
+ 1194  nvcc transpose.cu -o a
+ 1195  clear
+ 1196  ./a
+ 1197  nvcc transpose.cu -o a
+ 1198  clear
+ 1199  ./a
+ 1200  nvcc transpose.cu -o a
+ 1201  ./a
+ 1202  nvcc transpose.cu -o a
+ 1203  ./a
+ 1204  nvcc transpose.cu -o a
+ 1205  ./a
+ 1206  nvcc transpose.cu -o a
+ 1207  ./a
+ 1208  nvcc transpose.cu -o a
+ 1209  ./a
+ 1210  nvcc transpose.cu -o a
+ 1211  ./a
+ 1212  nvcc transpose.cu -o a
+ 1213  ./a
+ 1214  clear
+ 1215  nvcc transpose.cu -o a
+ 1216  ./a
+ 1217  nvcc transpose.cu -o a
+ 1218  ./a
+ 1219  nvcc transpose.cu -o a
+ 1220  ./a
+ 1221  nvcc transpose.cu -o a
+ 1222  ./a
+ 1223  clear
+ 1224  nvcc transpose.cu -o a
+ 1225  ./a
+ 1226  nvcc transpose.cu -o a
+ 1227  ./a
+ 1228  exit
+ 1229  cd Desktop/pdp_slides_codes/
+ 1230  ls
+ 1231  cd codes/
+ 1232  sl
+ 1233  ls
+ 1234  clear
+ 1235  cd open_mp_codes/
+ 1236  ls
+ 1237  cd ..
+ 1238  cd assignments/
+ 1239  ls
+ 1240  cd Question3/
+ 1241  ls
+ 1242  code Question3.cpp
+ 1243  cd Desktop/
+ 1244  ls
+ 1245  cd flask/
+ 1246  ls
+ 1247  mkdir tute
+ 1248  ls
+ 1249  cd tute/
+ 1250  ls
+ 1251  code test.py
+ 1252  run test.py 
+ 1253  flask test.py 
+ 1254  exit
+ 1255  /usr/bin/python3
+ 1256  cd Desktop/flask/
+ 1257  ls
+ 1258  cd tute/
+ 1259  ls
+ 1260  run test.py 
+ 1261  flask run
+ 1262  cd Desktop/
+ 1263  ls
+ 1264  code AND_product.cpp
+ 1265  exit
+ 1266  cd Desktop/
+ 1267  ls
+ 1268  g++ AND_product.cpp -o a
+ 1269  ./a
+ 1270  g++ AND_product.cpp -o a
+ 1271  ./a
+ 1272  g++ AND_product.cpp -o a
+ 1273  ./a
+ 1274  g++ AND_product.cpp -o a
+ 1275  ./a
+ 1276  g++ AND_product.cpp -o a
+ 1277  ./a
+ 1278  g++ AND_product.cpp -o a
+ 1279  ./a
+ 1280  g++ AND_product.cpp -o a
+ 1281  ./a
+ 1282  g++ AND_product.cpp -o a
+ 1283  ./a
+ 1284  g++ AND_product.cpp -o a
+ 1285  ./a
+ 1286  g++ AND_product.cpp -o a
+ 1287  ./a
+ 1288  g++ AND_product.cpp -o a
+ 1289  ./a
+ 1290  g++ AND_product.cpp -o a
+ 1291  ./a
+ 1292  g++ AND_product.cpp -o a
+ 1293  ./a
+ 1294  g++ AND_product.cpp -o a
+ 1295  ./a
+ 1296  g++ AND_product.cpp -o a
+ 1297  ./a
+ 1298  g++ AND_product.cpp -o a
+ 1299  ./a
+ 1300  g++ AND_product.cpp -o a
+ 1301  ./a
+ 1302  g++ AND_product.cpp -o a
+ 1303  ./a
+ 1304  g++ AND_product.cpp -o a
+ 1305  ./a
+ 1306  g++ AND_product.cpp -o a
+ 1307  ./a
+ 1308  g++ AND_product.cpp -o a
+ 1309  ./a
+ 1310  g++ AND_product.cpp -o a
+ 1311  ./a
+ 1312  g++ AND_product.cpp -o a
+ 1313  clear
+ 1314  ./a
+ 1315  g++ AND_product.cpp -o a
+ 1316  ./a
+ 1317  g++ AND_product.cpp -o a
+ 1318  ./a
+ 1319  g++ AND_product.cpp -o a
+ 1320  ./a
+ 1321  cd inter_codes/
+ 1322  ls
+ 1323  code Prim_algorimthm.cpp
+ 1324  cd ..
+ 1325  exit
+ 1326  cd Desktop/
+ 1327  ls
+ 1328  cd imp_codes/
+ 1329  ls
+ 1330  cd c
+ 1331  cd cuda_codes/
+ 1332  ls
+ 1333  code quicksort.cu
+ 1334  exit
+ 1335  cd Desktop/
+ 1336  ls
+ 1337  code test.cpp
+ 1338  exit
+ 1339  cd Desktop/
+ 1340  ;
+ 1341  ls
+ 1342  g++ test.cpp -o a
+ 1343  ./a
+ 1344  g++ test.cpp -o a
+ 1345  ./a
+ 1346  g++ test.cpp -o a
+ 1347  ./a
+ 1348  g++ test.cpp -o a
+ 1349  ./a
+ 1350  cd Desktop/imp_codes/cuda_codes/
+ 1351  ls
+ 1352  cd ..
+ 1353  export PATH=/usr/local/cuda-10.2/bin:/usr/local/cuda-10.2/NsightCompute-2019.1${PATH:+:${PATH}}
+ 1354  export LD_LIBRARY_PATH=/usr/local/cuda-10.2/lib64\${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+ 1355  which nvcc
+ 1356  cd Desktop/imp_codes/
+ 1357  ls
+ 1358  cd cuda_codes/
+ 1359  ls
+ 1360  rm a
+ 1361  ls
+ 1362  code quicksort.cu 
+ 1363  exit
+ 1364  history
+ 1365  export PATH=/usr/local/cuda-10.2/bin:/usr/local/cuda-10.2/NsightCompute-2019.1${PATH:+:${PATH}}
+ 1366  export LD_LIBRARY_PATH=/usr/local/cuda-10.2/lib64\${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+ 1367  which nvcc
+ 1368  cd Desktop/imp_codes/cuda_codes/
+ 1369  ls
+ 1370  nvcc quicksort.cu -o a
+ 1371  clear
+ 1372  nvcc -arch=sm_35 -rdc=true quicksort.cu -o a -lcudadevrt
+ 1373  ./a
+ 1374  clear
+ 1375  nvcc -arch=sm_35 -rdc=true quicksort.cu -o a -lcudadevrt
+ 1376  ./a
+ 1377  nvcc -arch=sm_35 -rdc=true quicksort.cu -o a -lcudadevrt
+ 1378  ./a
+ 1379  c;ear
+ 1380  clear
+ 1381  exit
+ 1382  cd Desktop/inter_codes/
+ 1383  ls
+ 1384  cd ..
+ 1385  cd imp_codes/
+ 1386  ls
+ 1387  cd cuda_codes/
+ 1388  ls
+ 1389  rm 
+ 1390  rm a
+ 1391  ls
+ 1392  code transpose.cu 
+ 1393  exit
+ 1394  ls
+ 1395  cd nvvp_workspace/
+ 1396  ls
+ 1397  cd RemoteSystemsTempFiles/
+ 1398  ls
+ 1399  cd ..
+ 1400  rmdir nvvp_workspace/
+ 1401  ls
+ 1402  rmdir nvvp_workspace/ -r
+ 1403  nvvp
+ 1404  exit
+ 1405  cd Desktop/
+ 1406  ls
+ 1407  exit
+ 1408  cd Desktop/imp_codes/
+ 1409  ls
+ 1410  cd data_flow_graph_simulator/
+ 1411  ls
+ 1412  g++ test_parse.cpp -S
+ 1413  code test_parse.s
+ 1414  rm test_parse.s
+ 1415  ls
+ 1416  exit
+ 1417  cd Desktop/
+ 1418  ls
+ 1419  export PATH=/usr/local/cuda-10.2/bin:/usr/local/cuda-10.2/NsightCompute-2019.1${PATH:+:${PATH}}
+ 1420  export LD_LIBRARY_PATH=/usr/local/cuda-10.2/lib64\${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+ 1421  which nvcc
+ 1422  cd imp_codes/
+ 1423  ls
+ 1424  cd cuda_codes/
+ 1425  ls
+ 1426  nvcc transpose.cu -o a
+ 1427  which nvcc
+ 1428  cd Desktop/
+ 1429  code Highest_value_palindrome.cpp
+ 1430  exit
+ 1431  cd Desktop/
+ 1432  g++ Highest_value_palindrome.cpp -o a
+ 1433  ./a
+ 1434  g++ Highest_value_palindrome.cpp -o a
+ 1435  ./a
+ 1436  ping www.google.com.
+ 1437  exit
+ 1438  cd Desktop/imp_codes/
+ 1439  ls
+ 1440  mkdir parallel_data_flow_graph_simulator
+ 1441  cd parallel_data_flow_graph_simulator/
+ 1442  ls
+ 1443  cd ..
+ 1444  cd data_flow_graph_simulator/
+ 1445  ls
+ 1446  code node_function.h
+ 1447  code node_function.cpp 
+ 1448  ls
+ 1449  code parse_bench.h
+ 1450  code parse_bench.cpp 
+ 1451  code test_parse.cpp 
+ 1452  cd ..
+ 1453  cd parallel_data_flow_graph_simulator/
+ 1454  ls
+ 1455  code node_function.h
+ 1456  code node_function.cpp
+ 1457  code parse_bench.h
+ 1458  code parse_bench.h 
+ 1459  code parse_bench.cpp
+ 1460  code test_parse.cpp
+ 1461  g++ test_parse.cpp -o a
+ 1462  ls
+ 1463  ./a bench_program.bh bench_input.bh 
+ 1464  clear
+ 1465  ls
+ 1466  code parse_bench.h
+ 1467  g++ test_parse.cpp -o a
+ 1468  code bench_program.bh 
+ 1469  code bench_input.bh 
+ 1470  g++ test_parse.cpp -o a -fopenmp
+ 1471  ./a bench_program.bh bench_input.bh 
+ 1472  g++ test_parse.cpp -o a -fopenmp
+ 1473  ./a bench_program.bh bench_input.bh 
+ 1474  clear
+ 1475  g++ test_parse.cpp -o a -fopenmp
+ 1476  ./a bench_program.bh bench_input.bh 
+ 1477  g++ test_parse.cpp -o a -fopenmp
+ 1478  ./a
+ 1479  ./a bench_program.bh bench_input.bh 
+ 1480  g++ test_parse.cpp -o a -fopenmp
+ 1481  ./a bench_program.bh bench_input.bh 
+ 1482  g++ test_parse.cpp -o a -fopenmp
+ 1483  ./a bench_program.bh bench_input.bh 
+ 1484  g++ test_parse.cpp -o a -fopenmp
+ 1485  ./a bench_program.bh bench_input.bh 
+ 1486  g++ test_parse.cpp -o a -fopenmp
+ 1487  ./a bench_program.bh bench_input.bh 
+ 1488  g++ test_parse.cpp -o a -fopenmp
+ 1489  ./a bench_program.bh bench_input.bh 
+ 1490  g++ test_parse.cpp -o a -fopenmp
+ 1491  ./a bench_program.bh bench_input.bh 
+ 1492  zoom
+ 1493  clear
+ 1494  exit
+ 1495  cd Desktop/
+ 1496  ls
+ 1497  cd imp_codes/parallel_data_flow_graph_simulator/
+ 1498  ls
+ 1499  rm a
+ 1500  code test_parse.cpp 
+ 1501  g++ test_parse.cpp -o a -fopenmp
+ 1502  ./a bench_program.bh bench_input.bh 
+ 1503  g++ test_parse.cpp -o a -fopenmp
+ 1504  ./a bench_program.bh bench_input.bh 
+ 1505  g++ test_parse.cpp -o a -fopenmp
+ 1506  ./a bench_program.bh bench_input.bh 
+ 1507  g++ test_parse.cpp -o a -fopenmp
+ 1508  clear
+ 1509  ./a bench_program.bh bench_input.bh 
+ 1510  g++ test_parse.cpp -o a -fopenmp
+ 1511  ./a bench_program.bh bench_input.bh 
+ 1512  g++ test_parse.cpp -o a -fopenmp
+ 1513  ./a bench_program.bh bench_input.bh 
+ 1514  g++ test_parse.cpp -o a -fopenmp
+ 1515  ./a bench_program.bh bench_input.bh 
+ 1516  g++ test_parse.cpp -o a -fopenmp
+ 1517  ./a bench_program.bh bench_input.bh 
+ 1518  g++ test_parse.cpp -o a -fopenmp
+ 1519  ./a bench_program.bh bench_input.bh 
+ 1520  g++ test_parse.cpp -o a -fopenmp
+ 1521  clear
+ 1522  ./a bench_program.bh bench_input.bh 
+ 1523  g++ test_parse.cpp -o a -fopenmp
+ 1524  ./a bench_program.bh bench_input.bh 
+ 1525  g++ test_parse.cpp -o a -fopenmp
+ 1526  ./a bench_program.bh bench_input.bh 
+ 1527  code bench_program.bh 
+ 1528  ./a bench_program.bh bench_input.bh 
+ 1529  code bench_program.bh 
+ 1530  g++ test_parse.cpp -o a -fopenmp
+ 1531  ./a bench_program.bh bench_input.bh 
+ 1532  cd ..
+ 1533  cd data_flow_graph_simulator/
+ 1534  ls
+ 1535  g++ test_parse.cpp -o a
+ 1536  ./a bench_program.bh bench_input.bh 
+ 1537  g++ test_parse.cpp -o a
+ 1538  ./a bench_program.bh bench_input.bh 
+ 1539  exit
+ 1540  cd Desktop/inter_codes/
+ 1541  sl
+ 1542  ls
+ 1543  sl
+ 1544  ssl
+ 1545  sml
+ 1546  sudo apt install smlnj
+ 1547  exit
+ 1548  ping www.google.com.
+ 1549  exit
+ 1550  git pull
+ 1551  exit
+ 1552  ping www.google.com.
+ 1553  exit
+ 1554  ping www.google.com.
+ 1555  zoom
+ 1556  exit
+ 1557  saas
+ 1558  scss
+ 1559  sass
+ 1560  sudo apt install ruby-sass
+ 1561  exit
+ 1562  zoom
+ 1563  exit
+ 1564  cd Desktop/
+ 1565  ls
+ 1566  mkdir CS50W
+ 1567  ls
+ 1568  cd CS
+ 1569  cd CS50W/
+ 1570  ls
+ 1571  mkdir slides
+ 1572  cd slides/
+ 1573  exit
+ 1574  cd Desktop/CS50W/
+ 1575  mkdir codes
+ 1576  exit
+ 1577  cd Desktop/pdp_slides_codes/
+ 1578  ls
+ 1579  cd codes/
+ 1580  ls
+ 1581  cd open_mp_codes/
+ 1582  ls
+ 1583  cd ..
+ 1584  ls
+ 1585  cd assignments/
+ 1586  ls
+ 1587  cd Question3/
+ 1588  ls
+ 1589  code Question3.cpp
+ 1590  code matrix_block_transpose.cpp 
+ 1591  cd ..
+ 1592  ls
+ 1593  cd CS50W/
+ 1594  ls
+ 1595  clear
+ 1596  cd codes/
+ 1597  ls
+ 1598  tar s
+ 1599  cd src0
+ 1600  man tar
+ 1601  tar - src0.zip
+ 1602  tar --usage
+ 1603  tar -f src0.zip
+ 1604  clear
+ 1605  exit
+ 1606  zoom
+ 1607  exit
+ 1608  psql
+ 1609  sudo apt install postgresql-client-common
+ 1610  sudo dpkg --configure -a
+ 1611  sudo apt install postgresql-client-common
+ 1612  psql
+ 1613  exit
+ 1614  cd Desktop/
+ 1615  ls
+ 1616  exit
+ 1617  cd Desktop/pdp_slides_codes/
+ 1618  ls
+ 1619  cd codes/assignments/Question3/
+ 1620  ls
+ 1621  code matrix_block_transpose.cpp 
+ 1622  code Question3.cpp
+ 1623  exit
+ 1624  cd de
+ 1625  cd Desktop/
+ 1626  ks
+ 1627  ls
+ 1628  code test.cpp
+ 1629  exit
+ 1630  git commit
+ 1631  which git
+ 1632  clear
+ 1633  exit
+ 1634  cd Desktop/pdp_slides_codes/
+ 1635  ls
+ 1636  cd codes/assignments/assignment1/
+ 1637  ls
+ 1638  cd ..
+ 1639  cd Question3/
+ 1640  ls
+ 1641  cd ..
+ 1642  ls
+ 1643  cd assignment1/
+ 1644  ls
+ 1645  rm a.out 
+ 1646  ls
+ 1647  make
+ 1648  ./b
+ 1649  code sum_total_memoization_task.cpp 
+ 1650  code backup.cpp
+ 1651  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1652  ./a
+ 1653  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1654  ./a
+ 1655  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1656  ./a
+ 1657  clear
+ 1658  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1659  ./a
+ 1660  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1661  ./a
+ 1662  clear
+ 1663  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1664  ./a
+ 1665  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1666  ./a
+ 1667  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1668  clear
+ 1669  g++ sum_total_memoization_task.cpp -o a -fopenmp
+ 1670  ./a
+ 1671  code sum_total_memoization_task.cpp 
+ 1672  exit
+ 1673  cd Desktop/pdp_slides_codes/
+ 1674  ls
+ 1675  cd codes/assignments/Question3/
+ 1676  cd ..
+ 1677  cd assignment1/
+ 1678  ls
+ 1679  make
+ 1680  ./b
+ 1681  make
+ 1682  ./b
+ 1683  make
+ 1684  ./b
+ 1685  make
+ 1686  ./b
+ 1687  exit
+ 1688  cd Desktop/pdp_slides_codes/
+ 1689  ls
+ 1690  cd codes/assignments/assignment1/
+ 1691  ls
+ 1692  make
+ 1693  ./b
+ 1694  make
+ 1695  ./b
+ 1696  make
+ 1697  ./b
+ 1698  make
+ 1699  ./b
+ 1700  make
+ 1701  ./b
+ 1702  make
+ 1703  ./b
+ 1704  make
+ 1705  ./b
+ 1706  make
+ 1707  ./b
+ 1708  make
+ 1709  ./b
+ 1710  make
+ 1711  ./b
+ 1712  cd Desktop/pdp_slides_codes/codes/assignments/assignment1/
+ 1713  code sum_total_memoization_task.cpp 
+ 1714  make
+ 1715  ./b
+ 1716  cd Desktop/
+ 1717  ls
+ 1718  nano Makefile 
+ 1719  make
+ 1720  ./a
+ 1721  ./b
+ 1722  ./c
+ 1723  ./a
+ 1724  code Question1_recursive_task.cpp 
+ 1725  clear
+ 1726  make
+ 1727  ./a
+ 1728  code Question3.cpp 
+ 1729  make
+ 1730  ./a
+ 1731  ./b
+ 1732  ./c
+ 1733  make
+ 1734  ./a
+ 1735  ./b
+ 1736  ./c
+ 1737  clear
+ 1738  exit
+ 1739  cd Desktop/
+ 1740  ls
+ 1741  rm a 
+ 1742  rm b
+ 1743  rm 
+ 1744  rm c
+ 1745  ls
+ 1746  code README.md
+ 1747  cd Desktop/
+ 1748  code test.cpp
+ 1749  cd 2017UCS0032/
+ 1750  ls
+ 1751  code Question1_memoization_task.cpp 
+ 1752  code Question1_recursive_task.cpp 
+ 1753  cd ..
+ 1754  g++ test.cpp -o a -fopenmp
+ 1755  ./a
+ 1756  exit
+ 1757  cd Desktop/
+ 1758  ls
+ 1759  g++ test.cpp -o a -fopenmp
+ 1760  ./a
+ 1761  cd 2017UCS0032/
+ 1762  ls
+ 1763  code Question1_memoization_task.cpp 
+ 1764  make
+ 1765  ./a
+ 1766  ./b
+ 1767  ./c
+ 1768  clear
+ 1769  which django
+ 1770  cd Desktop/
+ 1771  django-admin startproject mysite
+ 1772  cd mysite/
+ 1773  ls
+ 1774  nano manage.py 
+ 1775  cd mysite/
+ 1776  ls
+ 1777  exit
+ 1778  cd Desktop/
+ 1779  ls
+ 1780  cd mysite/
+ 1781  ls
+ 1782  cd mysite/
+ 1783  ls
+ 1784  exit
+ 1785  cd Desktop/2017UCS0032/
+ 1786  ls
+ 1787  make
+ 1788  ./b
+ 1789  make
+ 1790  code Makefile 
+ 1791  make
+ 1792  code Question1_recursive_task.c 
+ 1793  make
+ 1794  ./a
+ 1795  code Question1_memoization_task.c 
+ 1796  clear
+ 1797  make
+ 1798  code Question3.c 
+ 1799  clear
+ 1800  make
+ 1801  /A
+ 1802  ./a
+ 1803  ./b
+ 1804  make
+ 1805  ./a
+ 1806  ./b
+ 1807  ./c
+ 1808  make
+ 1809  ./a
+ 1810  ./b
+ 1811  make
+ 1812  ./a
+ 1813  ./b
+ 1814  make
+ 1815  ./b
+ 1816  ./a
+ 1817  ./c
+ 1818  clear
+ 1819  make
+ 1820  ./a
+ 1821  ./
+ 1822  ./b
+ 1823  ./c
+ 1824  make
+ 1825  ./a
+ 1826  ./b
+ 1827  ./c
+ 1828  cd ..
+ 1829  cd 2017UCS0032
+ 1830  ls
+ 1831  cd ..
+ 1832  cd 2017UCS0032(1)
+ 1833  cd asjdhfosdf/
+ 1834  ls
+ 1835  make
+ 1836  ./a
+ 1837  ./b
+ 1838  cd ..
+ 1839  cd asjdhfosdf/
+ 1840  ls
+ 1841  code Question1_memoization_task.cpp 
+ 1842  cd .
+ 1843  cd ..
+ 1844  cd 2017UCS0032/
+ 1845  ls
+ 1846  make
+ 1847  ./a
+ 1848  ./b
+ 1849  ./c
+ 1850  cd Desktop/
+ 1851  ls
+ 1852  code test.cpp
+ 1853  rm test.cpp
+ 1854  nano test.cpp
+ 1855  g++ test.cpp -o a
+ 1856  ./a
+ 1857  echo $
+ 1858  echo$
+ 1859  echo $?
+ 1860  ./a
+ 1861  echo $?
+ 1862  clear
+ 1863  rm a
+ 1864  rm test.cpp 
+ 1865  ls
+ 1866  exit
+ 1867  cd Desktop/2017UCS0032/
+ 1868  ls
+ 1869  make
+ 1870  ./b
+ 1871  make
+ 1872  ./b
+ 1873  make
+ 1874  ./b
+ 1875  make
+ 1876  ./b
+ 1877  make
+ 1878  ./b
+ 1879  code Question1_recursive_task.c 
+ 1880  make
+ 1881  ./b
+ 1882  make
+ 1883  ./b
+ 1884  clear
+ 1885  make
+ 1886  ./b
+ 1887  cd ..
+ 1888  code subset.c 
+ 1889  gcc subset.c -o a -fopenmp
+ 1890  ./a
+ 1891  cd 2017UCS0032/
+ 1892  make
+ 1893  ./b
+ 1894  make
+ 1895  ./b
+ 1896  clear
+ 1897  make
+ 1898  ./b
+ 1899  make
+ 1900  ./b
+ 1901  make
+ 1902  ./b
+ 1903  make
+ 1904  ./b
+ 1905  make
+ 1906  ./b
+ 1907  make
+ 1908  ./b
+ 1909  make
+ 1910  ./b
+ 1911  make
+ 1912  ./b
+ 1913  cd Desktop/2017UCS0032/
+ 1914  ls
+ 1915  nano Question1_memoization_task.c 
+ 1916  make
+ 1917  ./b
+ 1918  nano Question1_memoization_task.c 
+ 1919  make
+ 1920  ./b
+ 1921  exit
+ 1922  cd Desktop/2017UCS0032/
+ 1923  make
+ 1924  ./b
+ 1925  make
+ 1926  ./b
+ 1927  make
+ 1928  ./b
+ 1929  make
+ 1930  ./b
+ 1931  make
+ 1932  ./b
+ 1933  make
+ 1934  ./b
+ 1935  exit
+ 1936  cd Desktop/2017UCS0032/
+ 1937  ls
+ 1938  code Question1_memoization_task.c 
+ 1939  exit
+ 1940  cd Desktop/2017UCS0032/
+ 1941  ls
+ 1942  nano Question1_memoization_task.c 
+ 1943  exit
+ 1944  zoom
+ 1945  exit
+ 1946  atom
+ 1947  sudo snap install atom
+ 1948  sudo snap install atom --classic
+ 1949  exit
+ 1950  tree
+ 1951  which tree
+ 1952  exit
+ 1953  sudo apt-get install pycosat
+ 1954  cd Desktop/
+ 1955  ls
+ 1956  cd sat_solver_sudoku-master/
+ 1957  ls
+ 1958  nano in3.txt 
+ 1959  clear
+ 1960  ls
+ 1961  code sudoku_gen.py 
+ 1962  python sudoku_gen.py 
+ 1963  clear
+ 1964  code cl.cnf 
+ 1965  ls
+ 1966  code in3.txt 
+ 1967  cd ..
+ 1968  cd minisat-master/
+ 1969  ls
+ 1970  sudo make install
+ 1971  clear
+ 1972  cd ..
+ 1973  ls
+ 1974  cd sat_solver_sudoku-master/
+ 1975  ls
+ 1976  cat in3.txt 
+ 1977  clear
+ 1978  cd ..
+ 1979  cd minisat-master/
+ 1980  ls
+ 1981  minisat /Desktop/sat_solver_sudoku-master/cl.cnf
+ 1982  cd ..
+ 1983  cd sat_solver_sudoku-master/
+ 1984  ls
+ 1985  python sudoku_gen.py 
+ 1986  clear
+ 1987  code cl.cnf 
+ 1988  minisat cl.cnf 
+ 1989  cd ..
+ 1990  cd minisat-master/
+ 1991  ls
+ 1992  minisat cl.cnf
+ 1993  ./minisat cl.cnf 
+ 1994  make config prefix=$PREFIX
+ 1995  sudo make install
+ 1996  which minisat
+ 1997  minisat cl.cnf 
+ 1998  sudo make clean
+ 1999  which minisat
+ 2000  exit
+ 2001  cd Desktop/
+ 2002  git clone https://github.com/abhijeetagnihotri123/TEST
+ 2003  ls
+ 2004  cd T
+ 2005  cd TEST/
+ 2006  ls
+ 2007  code test.cpp
+ 2008  git add test.cpp 
+ 2009  git commit -m "added my first file"
+ 2010  git config --globla user.email "abhijeetagnihotri5@gmail.com"
+ 2011  clear
+ 2012  git commit -m "added my first file"
+ 2013  git config --global agnitude5.abhijeetagnihotri5@gmail.com
+ 2014  git commit -m "added my first file"
+ 2015  git config --global agnitude5.abhijeetagnihotri5@gmail.com abhijeetagnihotri5@gmail.com
+ 2016  git commit -m "added my first file"
+ 2017  git config --global agnitude5@agnitude5-Aspire-F5-573G.abhijeetagnihotri5@gmail.com
+ 2018  clear
+ 2019  git commit -m "added my first file"
+ 2020  git config user.email "abhijeetagnihotri5@gmail.com"
+ 2021  git config user.name "abhijeetagnihotri123"
+ 2022  git commit -m "added my first file"
+ 2023  git status
+ 2024  git log
+ 2025  git reset -2dea8d838db2fe35bee77e6feef6ee5c4bca4910
+ 2026  git reset --hard 2dea8d838db2fe35bee77e6feef6ee5c4bca4910
+ 2027  git log
+ 2028  ls
+ 2029  git add test.cpp 
+ 2030  git commit -am test.cpp "Testing the first commit"
+ 2031  git commit -m"Testing the first commit"
+ 2032  git log
+ 2033  git push
+ 2034  code bubble_sort.cpp
+ 2035  git add bubble_sort.cpp 
+ 2036  git commit -m "another file"
+ 2037  git push
+ 2038  cd ..
+ 2039  ls
+ 2040  clear
+ 2041  ls
+ 2042  cd Software_engineering/
+ 2043  ls
+ 2044  cd Lab_assignments/
+ 2045  ls
+ 2046  cd ..
+ 2047  cd slides/
+ 2048  ls
+ 2049  cd ..
+ 2050  ls
+ 2051  cd promela_codes/
+ 2052  ls
+ 2053  clear
+ 2054  cd ..
+ 2055  cd promela_codes/
+ 2056  git clone https://github.com/abhijeetagnihotri123/Promela-Assignment.git
+ 2057  ls
+ 2058  cd Promela-Assignment/
+ 2059  ls
+ 2060  cd ..
+ 2061  git add question1/
+ 2062  git add
+ 2063  cd ..
+ 2064  cd promela_codes/Promela-Assignment/
+ 2065  git add
+ 2066  git add.
+ 2067  git add .
+ 2068  git commit -m "promela_codes"
+ 2069  history >> out.txt
